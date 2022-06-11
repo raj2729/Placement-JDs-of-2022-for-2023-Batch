@@ -1,8 +1,8 @@
 # Placement-JDs-of-2022-for-2023-Batch
 
-- If you are from 2023 Batch sitting for placements, ATB 👍🏻
-- The repository contains JDs of companies that visited last year
-- Although JDs of not all the companies may be present, for any Addition/Deletion, you can open a Pull Request or contact me anytime
+- If you are from 2023 Batch sitting for placements, ATB 👍
+- The repository contains JDs of companies that visited **last year in DJSCE**. Although JDs of not all the companies may be present. 
+- **For any Addition/Deletion, you can open a Pull Request or contact me anytime**
 
 ### Downloading the files
 
